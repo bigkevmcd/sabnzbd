@@ -1,0 +1,17 @@
+{
+    "timeleft":"0:00:00",
+    "mb":854.697841,
+    "noofslots":1,
+    "paused":true,
+    "mbleft":854.697841,
+    "diskspace2":21.980682,
+    "diskspace1":21.980682,
+    "kbpersec":0.000000,
+    "jobs":[
+        {"msgid":"3066202",
+        "filename":
+        "Ubuntu 8.04 (Hardy Heron) - Desktop CD x64",
+        "mbleft":854.697841,"id":"SABnzbd_nzo_zt2syz",
+        "mb":854.697841}
+    ]
+}
